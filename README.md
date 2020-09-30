@@ -5,10 +5,12 @@ and for screen readers. Some examples would be headers, footers, nav section, ar
 
 2. Go through and add some tags (specifically some section tags grouping the articles in the document).
 
-3. Change a little css for some of the changed tags (pretty much just the nav elements)
+3. Change a few css selector names for some of the changed html tags (pretty much just the nav elements)
 
 4. Organize the document more by adding breaks in code (line spacing).
 
 5. Making sure all the links worked, and linked stylesheets and pictures.
 
-6. Commented css 
+6. Commented and css 
+
+7. Consolidated css
