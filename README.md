@@ -1,5 +1,7 @@
 The goal of this project was to "refactor" code to a given website. In order to do this I did a couple things:
 
+!!REALLY SCREWED UP - REAARANGED FILE STRUCTURE AND LOST ALL COMMIT COMMENTS
+
 1. Go through the html code and rename some tags, to semantic tags in order to better organize it for others developers
 and for screen readers. Some examples would be headers, footers, nav section, articles, main sections, sections, asides.
 
