@@ -13,6 +13,12 @@ and for screen readers. Some examples would be headers, footers, nav section, ar
 
 5. Making sure all the links worked, and linked stylesheets and pictures.
 
-6. Commented and css 
+6. Commented html and css 
 
 7. Consolidated css
+
+8. Added alts to pictures
+
+Screen Shot 2020-10-01 at 10.26.13 PM
+
+Screen Shot 2020-10-01 at 10.26.23 PM
